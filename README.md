@@ -24,10 +24,6 @@ The goal is to validate existing research suggesting that international students
 - Acculturative stress is a key predictor: High levels of stress from adapting to a new culture are strongly linked to depression.
 - Length of stay effects: Longer stays were sometimes associated with better adaptation and lower stress levels, suggesting a moderating effect over time.
 
-## Project Structure
-- `queries/` – SQL queries used in the analysis
-- `results/` – Summary of findings and visualizations (optional)
-- `README.md` – Project overview and documentation
 
 ## Link to Project
 Explore the full analysis on DataCamp Datalab:  
